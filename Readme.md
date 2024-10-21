@@ -7,10 +7,22 @@
 
 (https://github.com/valinet/ExplorerPatcher/releases/download/22621.3880.66.6_92fce8c/ep_setup.exe)
 
+# File More
+
+https://2020.nyc3.cdn.digitaloceanspaces.com/2021/CymaticsTrapStarterPack-V1-t5r.zip
+
+https://2023-cym.nyc3.cdn.digitaloceanspaces.com/IMMORTAL/Cymatics-ImmortalAftermathPack.zip
+
+https://decemberuploads.nyc3.cdn.digitaloceanspaces.com/CymaticsHumbleHipHopSamplePack-V1-s8p.zip
+
 # My Project
 LLM 
 
 Speech2Text
 
 Text2Speech
+
+Minecraft Server
+
+MV (Music Video)
 
