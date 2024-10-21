@@ -14,7 +14,7 @@ Python is a high-level, interpreted programming language known for its simplicit
 - [Key Features](#key-features)
 - [Popular Libraries](#popular-libraries)
 - [Community and Resources](#community-and-resources)
-- [Download](#download)
+- [Download](#downloads)
 
 ## Why Python?
 
