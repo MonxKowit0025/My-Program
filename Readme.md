@@ -27,3 +27,6 @@ Text2Speech [Here](https://github.com/MonxKowit0025/My-Program/tree/main/Text2Sp
 
 All [Here](https://github.com/MonxKowit0025/My-Program/tree/main/Readme.md)...
 
+# requirement
+
+https://code.visualstudio.com/download
