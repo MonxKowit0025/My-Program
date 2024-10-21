@@ -103,7 +103,10 @@ print(response)
 ## Downloads
 
 - [For Windows](https://ollama.com/download/OllamaSetup.exe)
-- [For Linux] ```curl -fsSL https://ollama.com/install.sh | sh```
+- [For Linux]
+  ```ssh
+   curl -fsSL https://ollama.com/install.sh | sh
+   ```
 - [For Mac](https://ollama.com/download/Ollama-darwin.zip)
 
 ---
