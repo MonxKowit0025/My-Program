@@ -100,6 +100,12 @@ print(response)
 - [Meta AI Model Hub](https://github.com/meta-ai)
 - [Llama 3.1 vs 3.2 Comparison](https://getmeta.ai/release-notes)
 
+## Downloads
+
+- [For Windows](https://ollama.com/download/OllamaSetup.exe)
+- [For Linux] ```curl -fsSL https://ollama.com/install.sh | sh```
+- [For Mac](https://ollama.com/download/Ollama-darwin.zip)
+
 ---
 
 Let me know if you need any changes or additional details!
