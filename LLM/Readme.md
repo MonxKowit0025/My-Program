@@ -16,6 +16,7 @@ Llama 3.2 is Meta’s latest open-source language model, with new multimodal cap
 - [Use Cases](#use-cases)
 - [Troubleshooting](#troubleshooting)
 - [References](#references)
+- [Download](#downloads)
 
 ## Introduction
 
