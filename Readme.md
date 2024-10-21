@@ -10,6 +10,7 @@
 (https://download.vb-audio.com/Download_CABLE/VBCABLE_Driver_Pack45.zip)
 
 # File More
+Fl studio File Simple Pack
 
 https://2020.nyc3.cdn.digitaloceanspaces.com/2021/CymaticsTrapStarterPack-V1-t5r.zip
 
