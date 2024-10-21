@@ -97,18 +97,15 @@ print(response)
 
 ## References
 
-- [Llama 3.2 Overview](https://blog.getbind.co/llama-3.2-overview)【16†source】
+- [Llama 3.2 Overview](https://blog.getbind.co/llama-3.2-overview)
 - [Meta AI Model Hub](https://github.com/meta-ai)
 - [Llama 3.1 vs 3.2 Comparison](https://getmeta.ai/release-notes)
 
 ## Downloads
 
-- [For Windows](https://ollama.com/download/OllamaSetup.exe)
-- [For Linux]
-  ```ssh
-   curl -fsSL https://ollama.com/install.sh | sh
-   ```
-- [For Mac](https://ollama.com/download/Ollama-darwin.zip)
+- [For Windows](https://ollama.com/download/windows)
+- [For Linux](https://ollama.com/download/linux)
+- [For Mac](https://ollama.com/download/mac)
 
 ---
 
