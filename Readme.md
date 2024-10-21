@@ -16,13 +16,13 @@ https://2023-cym.nyc3.cdn.digitaloceanspaces.com/IMMORTAL/Cymatics-ImmortalAfter
 https://decemberuploads.nyc3.cdn.digitaloceanspaces.com/CymaticsHumbleHipHopSamplePack-V1-s8p.zip
 
 # My Project
-LLM 
+LLM [Here]()...
 
-Speech2Text
+Speech2Text [Here]()...
 
-Text2Speech
+Text2Speech [Here]()...
 
-Minecraft Server
+Minecraft Server [Here]()...
 
-MV (Music Video)
+MV (Music Video) [Here]()...
 
