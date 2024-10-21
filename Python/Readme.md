@@ -14,6 +14,7 @@ Python is a high-level, interpreted programming language known for its simplicit
 - [Key Features](#key-features)
 - [Popular Libraries](#popular-libraries)
 - [Community and Resources](#community-and-resources)
+- [Download](#download)
 
 ## Why Python?
 
@@ -97,6 +98,12 @@ Python has a large, welcoming community that offers extensive resources for lear
 ## Conclusion
 
 Python’s simplicity and versatility make it an excellent choice for beginners and experienced developers alike. Whether you're building web applications, analyzing data, or experimenting with machine learning, Python has the tools you need.
+
+## Downloads
+
+- [For Windows](https://apps.microsoft.com/detail/9ncvdn91xzqp?hl=th-th&gl=US)
+- [For Linux](https://www.python.org/downloads/source/)
+- [For Mac](https://www.python.org/downloads/macos/)
 
 ---
 
